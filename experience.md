@@ -21,10 +21,32 @@ tags: experience
 * Maintained company website in ExpressionEngine CMS
 * Reviewed lead records in SalesForce and glean insights for ongoing marketing initiatives
 
+### Inbound Marketing Project Manager
+
+#### RYP Marketing
+* Monitored changing standards for white-hat SEO and implement relevant techniques on client sites
+* Teamed with account managers and sales staff to effectively inform prospects and current clients of the agency's work
+* Immersed myself in clients' industry verticals to develop compelling, relevant content across multiple channels 
+
 ### Skills & Certifications
 
-* ClickMinded SEO Certification
-* Hubspot Inbound Certification
-* Google Analytics Individual Certification and Google Adwords Certification
+* [ClickMinded](https://www.credential.net/10097054) SEO Certification
 * Wordpress
+* HTML/CSS
+* Adobe Photoshop, Illustrator, & InDesign
+* Salesforce
 
+### Education
+
+#### Roanoke College
+Bachelor of Arts, Communication Studies
+GPA 3.65, Cum Laude
+
+#### Virginia Western Community College
+Associate of Science, General Studies
+GPA 3.65, Cum Laude
+
+#### Honors & Awards
+* Senior Scholar award in Communication Studies
+* Third place in Best Paper Contest at JMU Humanities Research Conference '13
+* Founding member of Roanoke College Lamda Pi Eta, Communication Honor Society
