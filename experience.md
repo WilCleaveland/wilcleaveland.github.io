@@ -9,7 +9,6 @@ tags: experience
 #### Freelance
 * Lead-generation advertorial writing for financial clients competing directly against Lending Tree and Eloan.com
 * Ghostwriting work placement on top publications, including ***Convince & Convert***, ***Social Media Today***, and ***Business2Community***
-* Content marketing support for Greenville, SC agency **10x Digital**
 * Event promotion editorial writing for Roanoke City Parks & Recreation - finished work appeared in the department's locally distributed magazine **PlayRoanoke** and **Blue Ridge Outdoors**, a Southeastern and Mid-Atlantic publication with a readership of over 350,000.
 
 ### Marketing Intern
@@ -24,7 +23,7 @@ tags: experience
 ### Inbound Marketing Project Manager
 
 #### RYP Marketing
-* Monitored changing standards for white-hat SEO and implement relevant techniques on client sites
+* Monitored changing standards for white-hat SEO and implemented relevant techniques on client sites
 * Teamed with account managers and sales staff to effectively inform prospects and current clients of the agency's work
 * Immersed myself in clients' industry verticals to develop compelling, relevant content across multiple channels 
 
@@ -49,4 +48,4 @@ GPA 3.65, Cum Laude
 #### Honors & Awards
 * Senior Scholar award in Communication Studies
 * Third place in Best Paper Contest at JMU Humanities Research Conference '13
-* Founding member of Roanoke College Lamda Pi Eta, Communication Honor Society
+* Founding member of Roanoke College Lambda Pi Eta, Communication Honor Society
