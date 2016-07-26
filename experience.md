@@ -31,6 +31,7 @@ tags: experience
 
 * [ClickMinded](https://www.credential.net/10097054) SEO Certification
 * Wordpress
+* MajesticSEO, Moz Pro, and Buffer
 * HTML/CSS
 * Adobe Photoshop, Illustrator, & InDesign
 * Salesforce 
