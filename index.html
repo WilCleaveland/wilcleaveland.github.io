@@ -37,6 +37,7 @@ layout: page
     </form>
   {% else %}
     <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked">
+      <input type="text" name="name" class="field-light" placeholder="name">
       <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email }}">
       <textarea type="text" name="content" class="field-light" rows="5" placeholder="Tell me a little about your project."></textarea>
       <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
