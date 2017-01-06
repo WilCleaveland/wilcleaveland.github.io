@@ -78,6 +78,8 @@ h6, .h6 { font-size: 0.75rem; }
 
 .list-reset { list-style: none; padding-left: 0; }
 
+.home-head { margin-top: 0em; font-size: 2rem; text-align: center; }
+
 .button-blue { color: white; background-color: #0076df; border-radius: 3px; transition-duration: .1s; transition-timing-function: ease-out; transition-property: box-shadow, background-color; }
 
 .button-blue:hover { opacity: .875; }

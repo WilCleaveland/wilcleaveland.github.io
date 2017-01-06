@@ -8,7 +8,7 @@ tags: experience
 
 #### Freelance
 * Lead-generation advertorial writing for financial clients competing directly against Lending Tree and Eloan.com
-* Ghostwriting work placement on top publications, including ***Convince & Convert***, ***Social Media Today**\*, and ***Business2Community**\*
+* Ghostwriting work placement on top publications, including **Convince & Convert**, **Social Media Today**, and **Business2Community**
 * Event promotion editorial writing for Roanoke City Parks & Recreation - finished work appeared in the department's locally distributed magazine **PlayRoanoke** and **Blue Ridge Outdoors**, a Southeastern and Mid-Atlantic publication with a readership of over 350,000.
 
 ### Marketing Intern
