@@ -6,7 +6,6 @@ summary:    Freelancer wisdom from the mouths of babes...
 categories: freelancing
 ---
 
-# How Acting Like a 3-Year-Old Boosted My Freelance Career and Doubled My Productivity
 You haven’t lived till you’ve suffered the character building tribulation that comes with handling a toddler’s wrath. I know this because I’ve only had to do it a handful of times. One of the perks of being an uncle and not a father, although I know my day is coming. 
 
 More to the point, you can learn a thing or two by watching what it takes for young kids to thrive, and noting the things that send them into a tailspin too. 
