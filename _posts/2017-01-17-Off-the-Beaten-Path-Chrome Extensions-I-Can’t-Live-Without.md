@@ -1,5 +1,5 @@
 ---
-layout:     default
+layout:     post
 title:      Off-the-Beaten-Path Chrome Extensions I Can’t Live Without
 date:       2017-01-17 9:32:29
 summary:    Not your father’s browser extension roundup… 
@@ -34,7 +34,7 @@ I keep upwards of 10 tabs open *all the time*. When I’m really working, that n
 
 But each of those tabs is nibbling RAM. Cumulatively, they’re just as resource intensive as a heavy duty desktop program. 
 
-“But I can’t close my **_precious_**!”
+#### “But I can’t close my **_precious_**!”
 
 I can already feel your gollum-esque grip around those tabs tightening. 
 

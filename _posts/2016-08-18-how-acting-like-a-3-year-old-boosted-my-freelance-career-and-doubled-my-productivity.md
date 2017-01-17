@@ -1,5 +1,5 @@
 ---
-layout:     default
+layout:     post
 title:      How Acting Like a 3-Year-Old Boosted My Freelance Career and Doubled My Productivity
 date:       2016-08-18 8:59:54
 summary:    Freelancer wisdom from the mouths of babes... 
