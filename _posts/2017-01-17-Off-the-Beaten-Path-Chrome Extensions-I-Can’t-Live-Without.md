@@ -3,7 +3,7 @@ layout:     post
 title:      Off-the-Beaten-Path Chrome Extensions I Can’t Live Without
 date:       2017-01-17 9:32:29
 summary:    Not your father’s browser extension roundup… 
-categories: freelancing productivity learning
+categories: [freelancing, productivity]
 ---
 The majority of my working hours are spent inside a browser window. Aside from my undying love for Alfred, Sublime Text, and a couple others, I could probably eschew desktop apps altogether and get all the tools I need right in my favorite browser: Google Chrome, the [most popular browser by usage share around the globe since around 2012](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers). 
 
