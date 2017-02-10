@@ -1,11 +1,11 @@
 {% for page in site.pages %}
-	{% if page.tags contains "posts" %}
+	{% if page.tags contains "background" %}
 		<a href="{{ page.url }}">{{ page.title }}</a>
 	{% endif %}
 {% endfor %}
 
 {% for page in site.pages %}
-	{% if page.tags contains "experience" %}
+	{% if page.tags contains "posts" %}
 		<a href="{{ page.url }}">{{ page.title }}</a>
 	{% endif %}
 {% endfor %}
