@@ -12,9 +12,6 @@
 <loc>http://localhost:4000/404.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/background/</loc>
 </url>
 <url>
@@ -33,13 +30,7 @@
 <loc>http://localhost:4000/search/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/testimonials/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/thanks/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/compatability/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/README.nitrous/</loc>
