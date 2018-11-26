@@ -1,0 +1,144 @@
+---
+layout: testimonials
+title: Testimonials
+permalink: /testimonials/
+tags: testimonials
+---
+
+<h3 style="text-align: center">Here are some comments from others I've helped:</h3>
+
+<div class="testimonials">
+<img src="../images/lou_cozzolino.jpg" />
+<p>"As a guy who built an affiliate company, solely through email, from $0 to $300,000 every month, if I could choose 1 guy to do it again with from scratch. 1 no nonsense writer. 1 entrepreneur to create compelling email, converting sales copy and day 1 profitable product funnels that can scale.</p>
+
+<p>I’d choose Wil because he was with me and built it to those staggering numbers along side me.</p>
+
+<p>There are just not that many people that have written, tested, and analyzed the amount of copy Wil has.</p> 
+
+<p>There’s not that many that have critiqued thousands of cold traffic emails, and made them work, while leading a team of 8 writers to do the same.</p>
+
+<p>Frankly, copy is a key component that makes the rain inside any business. Most can’t produce it. Less can analyze it. Less can teach it. Less can grow a profit line with it, day in and day out.</p>
+
+<p>Wil does all of that.</p> 
+
+<p>Period."</p>
+
+<strong><p>- Lou Cozzolino, Dedicated Emails LLC</p></strong>
+
+</div>
+
+<div class="testimonials">
+<img src="../images/james_wilder.jpg" />
+<p>"Wil is an incredible copywriter.</p>
+
+<p>He's able to immediately look at any copy, trim the fluff, and get the prospect to take action.</p>
+
+<p>His ability to whip up control-quality emails on the spot always amazes me.</p>
+
+<p>But, even more rare is his ability to lead and manage.</p>
+
+<p>He’s quick to celebrate team wins. While also happy to spend time helping and teaching others how to make their copy stronger and tighter.</p>
+
+<p>You can tell he’s driven from a place of helping everyone succeed. No ego.</p> 
+
+<p>I attribute a lot of my current copywriting skills to Wil’s patience and coaching.</p>
+
+<p>It’s been a pleasure working with Wil, and wouldn’t hesitate to do so again in the future."</p>
+
+<strong><p>- James Wilder</p></strong>
+</div>
+
+<div class="testimonials">
+<img src='../images/drew_kossoff.jpg' />
+<p><strong>"I'm super impressed with Wil's ability to deliver quality copy on time and on budget.</strong> He is easy to work with and gets things right the first time (e.g. doesn't require handholding or endless revisions)."</p> 
+<strong>- Drew Kossoff, CEO of <a href='http://rainmakeradventures.com/' target='_blank'>Rainmaker Ad Ventures</a></strong>
+</div>
+
+<div class="testimonials">
+<img src='../images/ryan_healy.jpg' />
+<p>"I've outsourced to other writers here and there, but Wil is my go-to guy when I need to outsource copy.</p>
+
+<strong><p>He has excellent research skills. He's self-motivated. He hits deadlines. And he writes damn good copy.</p></strong>
+
+<p>I can toss him an idea and let him run with it without ever worrying if we're on the same page. He knows how to take feedback. He asks the right questions. Overall, he just "gets it." </p>
+
+<p>His abilities are quickly eclipsing "up-and-comer" status, and I strongly recommend you work with him. (In fact, I often send him referrals.)</p>
+
+<p>Just please don't send him too much work... I'd like to keep working with Wil for a long time. ;-)"</p>
+<strong>- Ryan Healy, <a href="https://www.ryanhealy.com/" target="_blank">Financial Copywriter</a>
+</strong>
+
+</div>
+<div class="testimonials">
+<img src='../images/joe_hanning.jpg' />
+<p style='padding-bottom: 1rem; padding-top: .5rem'>"Overall, <strong>his final work comes in flawless and prior the scheduled deadline</strong>, which certainly makes my job a lot easier."</p> 
+<p><strong>- Joe Hanning, Marketing Manager of <a href='http://uvabookstores.com/' target='_blank'> UVA Bookstores</a></strong></p>
+</div>
+
+<div class="testimonials">
+<img src='../images/ben_steuart.jpg' />
+<p>"I was referred to Wil by Ryan Healy, whose schedule was too full to accommodate our landing page project. Wil had just started freelancing full-time, so his portfolio wasn't quite as filled out as the other copywriters we looked at. But when we got back the first draft of our copy, we knew we'd made the right choice.</p> 
+
+<p><strong>His process was seamless, and he got the tone and voice for our audience almost perfect right out of the gate. He even found a great clinical study for an ingredient in our product that we had yet to discover ourselves.</strong> Then he integrated it right into the copy.</p> 
+
+<p>We're anxiously counting down till launch day so we can test it out!"</p>
+<strong>- Ben Steuart, VP of Business Development at <a href='http://steuartlaboratories.com/'>Steuart Laboratories</a></strong>
+</div>
+
+<div class="testimonials">
+<img src='../images/chris_dodds.jpg' />
+<p>"Writing for different industries is always a challenge, but he’s been <strong>able to quickly adapt to each client’s unique voice and industry jargon and always delivers great copy that requires minimal (if any) editing.</strong>"</p> 
+<strong>- Chris Dodds, <a href='https://www.linkedin.com/in/doddschris/' target='_blank'>Cloud Architect</a></strong>
+</div>
+
+<div class="py2">
+  {% if site.ajaxify_contact_form %}
+    <form class="form-stacked">
+      <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email }}">
+      <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content }}"></textarea>
+      <input type="text" name="_gotcha" style="display:none" />
+      <button type='submit' class="button button-blue button-big mobile-block">{{ site.text.contact.submit }}</button>
+    </form>
+  {% else %}
+    <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked">
+      <input type="text" name="name" class="field-light" placeholder="Name">
+      <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email }}">
+      <textarea type="text" name="content" class="field-light" rows="5" placeholder="Tell me a little about your project."></textarea>
+      <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
+      <input type="hidden" name="_subject" value="{{ site.text.contact.subject }}" />
+      <input type="text" name="_gotcha" style="display:none" />
+      <input type="submit" class="button button-blue button-big mobile-block" value="Send">
+    </form>
+  {% endif %}
+</div>
+
+{% if site.ajaxify_contact_form %}
+  {% include ajaxify_content_form.html %}
+{% endif %}
+
+<!--
+{% assign posts_count = (paginator.posts | size) %}
+<div class="home">
+  {% if posts_count > 0 %}
+    <div class="posts">
+      {% for post in paginator.posts %}
+        <div class="post py3">
+          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+          <p class="post-summary">
+            {% if post.summary %}
+              {{ post.summary }}
+            {% else %}
+              {{ post.excerpt }}
+            {% endif %}
+          </p>
+        </div>
+      {% endfor %}
+    </div>
+
+    {% include pagination.html %}
+  {% else %}
+    <h1 class='center'>{{ site.text.index.coming_soon }}</h3>
+  {% endif %}
+</div>
+-->
